@@ -10,8 +10,18 @@
     <h1>To Do List</h1>
     <div class="container">
         <form action="" method="post">
+            <div class="input-container">
             <input type="text" name="inputBox" id="inputBox">
             <button type="submit" id="add">ADD</button>
+            </div>
+            <ul class="list">
+                <li class="item">
+                    <p>Item </p>
+                    <button type="submit" name="" id="check"></button>
+                    <button type="submit" name="" id="delete"></button>
+
+                </li>
+            </ul>
         </form>
     </div>
 

@@ -10,8 +10,8 @@
     <h1>To Do List</h1>
     <div class="container">
         <form action="" method="post">
-            <input type="text" name="" id="">
-            <button type="submit"></button>
+            <input type="text" name="inputBox" id="inputBox">
+            <button type="submit" id="add">ADD</button>
         </form>
     </div>
 

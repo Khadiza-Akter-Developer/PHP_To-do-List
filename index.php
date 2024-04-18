@@ -22,6 +22,14 @@
                     <button type="submit" id="delete"><i class="fas fa-trash-alt"></i></button>
                 </li>
             </ul>
+            <hr>
+            <ul class="list">
+                <li class="item">
+                    <p>Item</p>
+                    <button type="submit" id="check"><i class="fas fa-check"></i></button>
+                    <button type="submit" id="delete"><i class="fas fa-trash-alt"></i></button>
+                </li>
+            </ul>
         </form>
     </div>
 </body>
